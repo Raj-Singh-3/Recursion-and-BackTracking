@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0118-pascals-triangle) |
+| [0826-soup-servings](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0826-soup-servings) |
 ## Sort
 |  |
 | ------- |
@@ -77,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/3790-fruits-into-baskets-ii) |
+## Math
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0826-soup-servings) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
