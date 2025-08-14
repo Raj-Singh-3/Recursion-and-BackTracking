@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Stack
 |  |
 | ------- |
