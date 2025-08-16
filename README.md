@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1448-maximum-69-number](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2689-rearranging-fruits](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2689-rearranging-fruits) |
 ## Binary Search
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0826-soup-servings) |
+| [1448-maximum-69-number](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/1448-maximum-69-number) |
 ## Probability and Statistics
 |  |
 | ------- |
