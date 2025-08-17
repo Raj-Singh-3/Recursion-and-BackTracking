@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0496-next-greater-element-i) |
 | [1813-maximum-erasure-value](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/1813-maximum-erasure-value) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -114,4 +115,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
