@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0046-permutations) |
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0496-next-greater-element-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
