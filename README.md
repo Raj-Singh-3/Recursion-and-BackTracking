@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0485-max-consecutive-ones) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0342-power-of-four) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
