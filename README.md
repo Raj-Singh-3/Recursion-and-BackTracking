@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0496-next-greater-element-i) |
 | [0792-binary-search](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0792-binary-search) |
 | [1813-maximum-erasure-value](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/1813-maximum-erasure-value) |
