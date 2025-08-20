@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0792-binary-search) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1813-maximum-erasure-value](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/1813-maximum-erasure-value) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0118-pascals-triangle) |
 | [0826-soup-servings](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0826-soup-servings) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Sort
 |  |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0560-subarray-sum-equals-k) |
+## Matrix
+|  |
+| ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/1402-count-square-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
