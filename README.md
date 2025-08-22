@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0283-move-zeroes) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0826-soup-servings](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0826-soup-servings) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
