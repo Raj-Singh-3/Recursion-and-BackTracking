@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0792-binary-search) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0498-diagonal-traverse) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3790-fruits-into-baskets-ii](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Sorting
