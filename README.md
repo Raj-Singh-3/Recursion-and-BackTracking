@@ -49,12 +49,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1078-remove-outermost-parentheses](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/1078-remove-outermost-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0496-next-greater-element-i) |
+| [1078-remove-outermost-parentheses](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/1078-remove-outermost-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Greedy
 |  |
