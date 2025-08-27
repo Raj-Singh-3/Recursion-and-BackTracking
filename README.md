@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -177,4 +178,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0543-diameter-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
