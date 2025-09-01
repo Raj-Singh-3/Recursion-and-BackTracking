@@ -57,33 +57,26 @@ class Solution {
 
 
         public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
-        List<List<Integer>>arr = new LinkedList<>();
-        // Here, I am using Linkedlist because when my level is even than I have to add the elements at
-        // 0th index, so in linkedlist insert at head happens in O(1) time complexity.
+        List<List<Integer>> arr = new LinkedList<>();
         if(root == null) return arr;
         Queue<TreeNode> q = new LinkedList<>();
         q.offer(root);
         int level = 0;
         while(!q.isEmpty())
         {
-            int size = q.size();
-            List<Integer> a1 = new LinkedList<>();
-            for(int i = 1;i<=size;i++)
+            int s = q.size();
+            List<Integer> a= new LinkedList<>();
+            for(int i = 0;i<s;i++)
             {
                 TreeNode temp = q.poll();
-                if(level%2 != 0)
-                {
-                    a1.add(0,temp.val);
-                }
-                else
-                {
-                    a1.add(temp.val);
-                }
+                if(level%2== 0) a.add(temp.val);
+                else a.add(0,temp.val);
+                
                 if(temp.left!=null) q.offer(temp.left);
                 if(temp.right!=null) q.offer(temp.right);
             }
             level++;
-            arr.add(a1);
+            arr.add(a);
         }
         return arr;
     }
