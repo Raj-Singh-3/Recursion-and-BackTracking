@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0342-power-of-four) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0342-power-of-four) |
 ## Monotonic Stack
