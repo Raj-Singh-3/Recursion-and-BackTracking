@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0040-combination-sum-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0011-container-with-most-water) |
 | [1448-maximum-69-number](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2689-rearranging-fruits](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2689-rearranging-fruits) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
