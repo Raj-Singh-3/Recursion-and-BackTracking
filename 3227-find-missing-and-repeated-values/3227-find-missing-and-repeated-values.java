@@ -22,6 +22,7 @@ class Solution {
             if(!ht.contains(i))
             {
                 dub[1] = i;
+                return dub;
             }
         }
         return dub;
