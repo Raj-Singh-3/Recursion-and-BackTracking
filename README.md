@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0040-combination-sum-ii) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0169-majority-element) |
