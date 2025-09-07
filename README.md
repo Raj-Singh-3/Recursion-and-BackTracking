@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0792-binary-search) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/1813-maximum-erasure-value) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0826-soup-servings) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/1448-maximum-69-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/3227-find-missing-and-repeated-values) |
 ## Probability and Statistics
