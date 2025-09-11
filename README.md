@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/1078-remove-outermost-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2887-sort-vowels-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0169-majority-element) |
+| [2887-sort-vowels-in-a-string](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2887-sort-vowels-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
