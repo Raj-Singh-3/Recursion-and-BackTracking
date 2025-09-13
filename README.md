@@ -236,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0169-majority-element) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
