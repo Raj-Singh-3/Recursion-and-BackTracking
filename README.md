@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0151-reverse-words-in-a-string](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0205-isomorphic-strings) |
+| [0812-rotate-string](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/1078-remove-outermost-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2032-largest-odd-number-in-string) |
@@ -248,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0584-find-customer-referee](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0584-find-customer-referee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/1908-recyclable-and-low-fat-products) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
