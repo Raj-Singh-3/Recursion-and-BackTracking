@@ -1,6 +1,6 @@
 class Solution {
     public String frequencySort(String s) {
-        TreeMap<Character,Integer> ht = new TreeMap<>();
+        HashMap<Character,Integer> ht = new HashMap<>();
         for(int i = 0;i<s.length();i++)
         {
             ht.put(s.charAt(i),ht.getOrDefault(s.charAt(i),0)+1);
