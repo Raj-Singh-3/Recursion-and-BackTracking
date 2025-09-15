@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0560-subarray-sum-equals-k) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1813-maximum-erasure-value](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/1813-maximum-erasure-value) |
 | [2689-rearranging-fruits](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2689-rearranging-fruits) |
 | [3227-find-missing-and-repeated-values](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/3227-find-missing-and-repeated-values) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/1078-remove-outermost-parentheses) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2346-largest-3-same-digit-number-in-string) |
