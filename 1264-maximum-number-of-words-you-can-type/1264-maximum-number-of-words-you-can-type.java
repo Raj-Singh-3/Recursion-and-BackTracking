@@ -1,25 +1,26 @@
+import java.util.*;
+
 class Solution {
     public int canBeTypedWords(String text, String brokenLetters) {
-        String arr[] = text.split("\\s+");
-        int count = 0;
-        HashSet<Character> ht = new HashSet<>();
+        // Store broken letters in a HashSet for O(1) lookup
+        Set<Character> brokenSet = new HashSet<>();
         for (char ch : brokenLetters.toCharArray()) {
-            ht.add(ch);
+            brokenSet.add(ch);
         }
-        for(int i = 0 ;i<arr.length;i++)
-        {
-            String s = arr[i];
-            int flag = 0;
-            for(int j = 0;j<s.length();j++)
-            {
-                if(ht.contains(s.charAt(j)))
-                {
-                    flag = 1;
+
+        String[] words = text.split("\\s+"); // split by whitespace
+        int count = 0;
+
+        for (String word : words) {
+            boolean canType = true;
+            for (char c : word.toCharArray()) {
+                if (brokenSet.contains(c)) { // O(1) lookup
+                    canType = false;
                     break;
                 }
-            }   
-            if(flag == 0) count++;         
-        } 
-        return count;       
+            }
+            if (canType) count++;
+        }
+        return count;
     }
 }
