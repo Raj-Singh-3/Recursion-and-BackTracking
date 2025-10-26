@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/1813-maximum-erasure-value) |
+| [2169-simple-bank-system](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2169-simple-bank-system) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0560-subarray-sum-equals-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1813-maximum-erasure-value](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/1813-maximum-erasure-value) |
+| [2169-simple-bank-system](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2169-simple-bank-system) |
 | [2689-rearranging-fruits](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2689-rearranging-fruits) |
 | [3227-find-missing-and-repeated-values](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/3227-find-missing-and-repeated-values) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/1642-water-bottles) |
+| [2169-simple-bank-system](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2169-simple-bank-system) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3790-fruits-into-baskets-ii](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
@@ -281,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0451-sort-characters-by-frequency) |
+## Design
+|  |
+| ------- |
+| [2169-simple-bank-system](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2169-simple-bank-system) |
 <!---LeetCode Topics End-->
