@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2032-largest-odd-number-in-string) |
+| [2285-maximum-total-importance-of-roads](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2285-maximum-total-importance-of-roads) |
 | [2689-rearranging-fruits](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2689-rearranging-fruits) |
 ## Binary Search
 |  |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0451-sort-characters-by-frequency) |
+| [2285-maximum-total-importance-of-roads](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2285-maximum-total-importance-of-roads) |
 | [2887-sort-vowels-in-a-string](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2887-sort-vowels-in-a-string) |
 ## Divide and Conquer
 |  |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0451-sort-characters-by-frequency) |
+| [2285-maximum-total-importance-of-roads](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2285-maximum-total-importance-of-roads) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -296,4 +299,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/1791-find-center-of-star-graph) |
+| [2285-maximum-total-importance-of-roads](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2285-maximum-total-importance-of-roads) |
 <!---LeetCode Topics End-->
