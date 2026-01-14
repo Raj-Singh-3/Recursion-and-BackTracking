@@ -292,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2169-simple-bank-system](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2169-simple-bank-system) |
+## Graph
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
