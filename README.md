@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1813-maximum-erasure-value](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/1813-maximum-erasure-value) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2169-simple-bank-system) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/1642-water-bottles) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2169-simple-bank-system) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3790-fruits-into-baskets-ii](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/3790-fruits-into-baskets-ii) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0283-move-zeroes) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Prefix Sum
 |  |
