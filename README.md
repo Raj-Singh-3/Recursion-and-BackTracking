@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/3227-find-missing-and-repeated-values) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/3689-maximum-total-subarray-value-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2032-largest-odd-number-in-string) |
 | [2285-maximum-total-importance-of-roads](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2285-maximum-total-importance-of-roads) |
 | [2689-rearranging-fruits](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2689-rearranging-fruits) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/3689-maximum-total-subarray-value-i) |
 ## Binary Search
 |  |
 | ------- |
