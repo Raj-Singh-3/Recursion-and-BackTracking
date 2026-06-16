@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2887-sort-vowels-in-a-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/3838-weighted-word-mapping) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2169-simple-bank-system) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3612-process-string-with-special-operations-i](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/3612-process-string-with-special-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/3790-fruits-into-baskets-ii) |
 | [3838-weighted-word-mapping](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/3838-weighted-word-mapping) |
 ## Ordered Set
