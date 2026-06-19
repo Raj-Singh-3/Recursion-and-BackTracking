@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0792-binary-search) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1732-find-the-highest-altitude](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1813-maximum-erasure-value](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/1813-maximum-erasure-value) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0560-subarray-sum-equals-k) |
+| [1732-find-the-highest-altitude](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2574-left-and-right-sum-differences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Matrix
