@@ -1,28 +1,31 @@
 class Solution {
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
-        List<List<Integer>> arr = new ArrayList<>();
-         helper(0,candidates, target, new ArrayList<>(), arr);
-         return arr;
+        List<List<Integer>> ans = new ArrayList<>();
+        Arrays.sort(candidates);
+        helper(candidates,0,target, ans , new ArrayList<Integer>());
+        return ans;
     }
-
-    public void helper(int i,int[] candidates, int target,ArrayList<Integer> a1, List<List<Integer>> arr)
+    Set<List<Integer>> st = new HashSet<>();
+    public void helper(int[] candidates, int i,  int target , List<List<Integer>> ans, List<Integer> temp)
     {
-        if(i == candidates.length)
+        if(target<0) return;
+        if(i == candidates.length) return;
+        if(target == 0)
         {
-            if(target == 0)
+            temp = new ArrayList<>(temp);
+            if(!st.contains(temp))
             {
-                arr.add( new ArrayList<>(a1));
-                return;
+                ans.add(temp);
+                st.add(temp);
             }
             return;
         }
-        if(candidates[i]<=target) {
-        a1.add(candidates[i]);
-        helper(i,candidates,target-candidates[i],a1, arr);
-        
-        a1.remove(a1.size()-1);
-        }
-        helper(i+1, candidates,target,a1,arr);
-        return;
+        target -= candidates[i];
+        temp.add(candidates[i]);
+        helper(candidates,i+1,target,ans,temp); // for single time inclusion
+        helper(candidates,i,target,ans,temp); // for multiple time inclusion
+        target += candidates[i];
+        temp.remove(temp.size()-1);
+        helper(candidates,i+1,target,ans,temp); // for single time inclusion
     }
 }
