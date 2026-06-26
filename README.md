@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/3689-maximum-total-subarray-value-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/3790-fruits-into-baskets-ii) |
 | [3838-weighted-word-mapping](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2689-rearranging-fruits) |
 | [3227-find-missing-and-repeated-values](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/3227-find-missing-and-repeated-values) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/3790-fruits-into-baskets-ii) |
 ## Simulation
 |  |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2574-left-and-right-sum-differences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -255,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -337,4 +342,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
