@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2574-left-and-right-sum-differences](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2574-left-and-right-sum-differences) |
+| [2596-check-knight-tour-configuration](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2596-check-knight-tour-configuration) |
 | [2689-rearranging-fruits](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2689-rearranging-fruits) |
 | [3227-find-missing-and-repeated-values](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/3227-find-missing-and-repeated-values) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2169-simple-bank-system) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2596-check-knight-tour-configuration](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2596-check-knight-tour-configuration) |
 | [3612-process-string-with-special-operations-i](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/3612-process-string-with-special-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/3790-fruits-into-baskets-ii) |
 | [3838-weighted-word-mapping](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/3838-weighted-word-mapping) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0037-sudoku-solver) |
 | [0498-diagonal-traverse](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2596-check-knight-tour-configuration](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2596-check-knight-tour-configuration) |
 | [3227-find-missing-and-repeated-values](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/3227-find-missing-and-repeated-values) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Sorting
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0199-binary-tree-right-side-view) |
 | [1035-cousins-in-binary-tree](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/1035-cousins-in-binary-tree) |
+| [2596-check-knight-tour-configuration](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Tree
 |  |
 | ------- |
@@ -303,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/0543-diameter-of-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/1035-cousins-in-binary-tree) |
+| [2596-check-knight-tour-configuration](https://github.com/Raj-Singh-3/Recursion-and-BackTracking/tree/master/2596-check-knight-tour-configuration) |
 ## Counting
 |  |
 | ------- |
